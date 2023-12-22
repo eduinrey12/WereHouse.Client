@@ -2,6 +2,6 @@
 
 Repositorio del servidor: https://github.com/eduinrey12/WereHouse.Server 
 
-[Presentación proyecto fin de grado profesional en color azul (1).pdf](https://github.com/eduinrey12/WereHouse.Client/files/13747680/Presentacion.proyecto.fin.de.grado.profesional.en.color.azul.1.pdf)
+Presentación: [Presentación proyecto fin de grado profesional en color azul (1).pdf](https://github.com/eduinrey12/WereHouse.Client/files/13747680/Presentacion.proyecto.fin.de.grado.profesional.en.color.azul.1.pdf)
 
-[RPC Aplicaciones distribuidas.pdf](https://github.com/eduinrey12/WereHouse.Client/files/13747681/RPC.Aplicaciones.distribuidas.pdf)
+Informe: [RPC Aplicaciones distribuidas.pdf](https://github.com/eduinrey12/WereHouse.Client/files/13747681/RPC.Aplicaciones.distribuidas.pdf)
